@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { SvgComponent } from "./Components/index";
+import { SvgComponent } from "./Components/svg";
 import { Editor } from "./RecortarImagen/index";
 
 const App = () => {
